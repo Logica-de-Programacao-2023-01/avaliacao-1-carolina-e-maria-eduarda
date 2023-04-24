@@ -1,6 +1,5 @@
 package q5
 
-import "fmt"
 import "strings"
 
 //Pedro começou a frequentar aulas de programação. Na primeira aula, sua tarefa foi escrever um programa simples. O
