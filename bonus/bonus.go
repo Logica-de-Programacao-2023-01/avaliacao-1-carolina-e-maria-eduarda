@@ -7,6 +7,10 @@ package bonus
 //barras da melhor maneira possível, determinando a altura da torre mais alta e quantas torres podem ser construídas.
 
 func CalculateTowers(barLengths []int) (int, int) {
-	// Seu código aqui
+	commonlenghts := barLengths[0]
+	for, commonlenghts := range barLengths[1:]{
+		commonlenghts = gcd(commonlenghts, barLengths)
+	}
+	
 	return 0, 0
 }
