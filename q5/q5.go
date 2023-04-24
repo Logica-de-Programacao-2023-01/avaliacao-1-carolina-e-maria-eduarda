@@ -1,5 +1,7 @@
 package q5
 
+import "fmt"
+
 //Pedro começou a frequentar aulas de programação. Na primeira aula, sua tarefa foi escrever um programa simples. O
 //programa deveria fazer o seguinte: na sequência de caracteres fornecida, composta por letras latinas maiúsculas e
 //minúsculas, ele:
