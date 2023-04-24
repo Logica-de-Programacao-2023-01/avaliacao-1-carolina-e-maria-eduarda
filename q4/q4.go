@@ -27,11 +27,11 @@ func ClassifyPrices(prices []int) (int, error) {
 	}
 
 	if crescente {
-		fmt.Println("1")
+		return 1, nil
 	} else if !crescente {
-		fmt.Println("2")
+		return 2, nil
 	} else {
-		fmt.Println("3")
+		return 3, nil
 	}
 
 	return 0, nil
