@@ -21,5 +21,3 @@ func DominoPieces(m, n int) (int, error) {
 	Dominos := (m * n) / 2
 	return Dominos, nil
 }
-	return 0, nil
-}
