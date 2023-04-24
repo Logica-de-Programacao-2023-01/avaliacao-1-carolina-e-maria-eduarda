@@ -25,5 +25,5 @@ func ProblemsSolved(answers [][3]bool) int {
 			numProblems++
 		}
 	}
-	return 0
+	return numProblems
 }
