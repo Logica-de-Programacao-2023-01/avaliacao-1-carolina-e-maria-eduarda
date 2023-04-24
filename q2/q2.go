@@ -16,7 +16,7 @@ func ProblemsSolved(answers [][3]bool) int {
 	numProblems := 0
 	for i := range answers {
 		numTrue := 0
-		for_, answer := range answers[i] {
+		for _, answer := range answers[i] {
 			if answer {
 				numTrue++
 			}
