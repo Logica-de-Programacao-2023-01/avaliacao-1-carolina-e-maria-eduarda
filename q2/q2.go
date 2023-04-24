@@ -1,5 +1,7 @@
 package q2
 
+import "fmt"
+
 //Um dia, três melhores amigos - Pedro, Vanessa e Tônia - decidiram formar uma equipe e participar de concursos de
 //programação. Os participantes geralmente recebem vários problemas durante esses concursos. Muito antes do início, os
 //amigos decidiram que implementariam um problema somente se pelo menos dois deles tivessem certeza da solução. Caso
